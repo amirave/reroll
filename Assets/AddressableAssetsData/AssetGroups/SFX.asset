@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SFX
+  m_EditorClassIdentifier: 
+  m_GroupName: SFX
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a6dcf1f2c0460b648ae80a65f4d33988
+  m_SerializeEntries:
+  - m_GUID: 0cd1b12dbc7f6754b930c27f0e005717
+    m_Address: sfx_menu_select2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 67b53c5f19d4908448a2664912063452
+    m_Address: sfx_menu_move2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 56877e609e843eb4fb8259d0cab87f81
+    m_Address: sfx_menu_move4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 9275d230483d3ec4ab3227cd7570a94f
+    m_Address: sfx_menu_move1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: e5797d00a5c400247a594328e26e02a0
+    m_Address: sfx_menu_move3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 38d5497deb1772f4ebb080c76fd3638f
+    m_Address: dice_hit1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 1affe75f7fe3bea429c8d8d7c99bc7c2
+    m_Address: dice_hit2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 5169d22a04b3e3a4b9cc5aef9ae0a5f6
+    m_Address: shoot2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: cbfed45baad12ef47bdd364ebc8b4a7f
+    m_Address: shoot1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 51cc784932c8e3542a120363e1193001
+    m_Address: player_hit.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 2d338ed04e17c8648a1d5d0906963f80
+    m_Address: kick1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: d66723eddab252e4d9fc68e647498750
+    m_Address: kick2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: ee7f9e3499a257b4785042a1b1520ca4
+    m_Address: turret_spawn.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: a72ecfb6028bae24fa65c71d48b67646
+    m_Address: exp1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: 4db7c369e0a8f8d40ac10e9514eb8cb4
+    m_Address: exp2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: dfe87094159acdf4ab4137e472ec031b
+    m_Address: exp3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  - m_GUID: b3e7628e5ff610d4e81a8921a9a2d175
+    m_Address: exp4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sfx
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a377292ff607ea44dbc375235c0d92a7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4ef1b06c7bf559544bbc1e709bd1dfa3, type: 2}
+    - {fileID: 11400000, guid: 48dc7316a5daf934ea1ebefe36c2cb5c, type: 2}
